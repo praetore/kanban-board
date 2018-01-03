@@ -8,13 +8,7 @@ import Board from "./components/Board";
 
 const lanes = [
     {
-        name: 'To do', tasks: [
-            {
-                name: 'Finish this app',
-                deadline: 'Tomorrow',
-                description: 'It\'s a basic kanban app with drag \'n drop.'
-            }
-        ]
+        name: 'To do', tasks: []
     },
     {
         name: 'Doing', tasks: [

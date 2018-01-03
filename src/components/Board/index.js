@@ -6,6 +6,8 @@ import {Button} from "semantic-ui-react";
 const styles = theme => ({
     container: {
         display: 'flex',
+        margin: '30px 0',
+        height: '100%'
     },
     button: {
         minWidth: 130,
